@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtubebysaurabh/static/css/main.ad702f40.css",
+    "main.js": "/youtubebysaurabh/static/js/main.9c6338c5.js",
+    "index.html": "/youtubebysaurabh/index.html",
+    "main.ad702f40.css.map": "/youtubebysaurabh/static/css/main.ad702f40.css.map",
+    "main.9c6338c5.js.map": "/youtubebysaurabh/static/js/main.9c6338c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad702f40.css",
+    "static/js/main.9c6338c5.js"
+  ]
+}
