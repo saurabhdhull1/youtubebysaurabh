@@ -8,7 +8,7 @@ import SearchFeed from "./components/SearchFeed";
 import VideoDetail from "./components/VideoDetail";
 
 const App = () => (
-  <BrowserRouter bashname="/youtubebysaurabh">
+  <BrowserRouter>
     <Box sx={{ backgroundColor: "#000" }}>
       <Navbar />
       <Routes>
